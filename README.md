@@ -54,6 +54,7 @@ Olá! Sou Manuela, uma entusiasta da tecnologia em constante aprendizado. Atualm
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=manumaestro&show_icons=true&count_private=true&theme=radical)
 
+![Image](https://github.com/user-attachments/assets/9d180d49-a248-4094-8e15-440590c7c431)
 
 ---
 
