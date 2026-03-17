@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  🎮 Gamer • 🌸 Criativa • 💻 Dev em evolução • ✨ Main character energy
+  🎮 Gamer • 🌸 Criativa • 💻 Dev em evolução • 
 </p>
 
 ---
@@ -49,7 +49,7 @@ Aqui no meu GitHub você vai encontrar meus projetos, testes, ideias e um pouco 
 
 ## 🎯 Atualmente
 
-🎮 Jogando: (coloca seu jogo favorito aqui 👀)  
+🎮 Jogando: Resident Evil Requiem
 📚 Aprendendo: JavaScript & React  
 💭 Sonho: Trabalhar com tecnologia + algo criativo  
 
@@ -58,11 +58,11 @@ Aqui no meu GitHub você vai encontrar meus projetos, testes, ideias e um pouco 
 ## 🌸 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariabragaf&show_icons=true&theme=rose_pine&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manumaestro&show_icons=true&theme=rose_pine&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariabragaf&layout=compact&theme=rose_pine&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manumaestro&layout=compact&theme=rose_pine&hide_border=true" />
 </p>
 
 ---
