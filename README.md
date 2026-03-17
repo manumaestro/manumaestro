@@ -1,63 +1,68 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=32&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+a+Manuela+💖;Bem+vindo+(a);" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=32&center=true&vCenter=true&width=800&lines=Hey,+eu+sou+a+Manuela+🎮💖;Player+1+Ready!;Bem-vindo+(a)+ao+meu+mundo+✨" />
 </h1>
 
 <p align="center">
-  🌸 Criativa • 💫 Sempre evoluindo • 💻 Explorando tecnologia
+  🎮 Gamer • 🌸 Criativa • 💻 Dev em evolução • ✨ Main character energy
 </p>
 
 ---
 
 <p align="center">
  Estudante de <strong>Desenvolvimento de Sistemas</strong> no <strong>SENAI Valinhos</strong>.  
-Sempre explorando coisas novas, quebrando a cabeça (às vezes literalmente 😅) e aprendendo algo diferente a cada dia.  
-Bem-vindo(a) ao meu cantinho do GitHub, onde compartilho meus projetos, e minha vibe atual. 
+Entre um código e outro, tô jogando, aprendendo e evoluindo de nível 🚀  
+Aqui no meu GitHub você vai encontrar meus projetos, testes, ideias e um pouco da minha jornada no mundo da tecnologia 💖  
 </p>
 
 ---
 
-## 👤 Sobre mim
+## 🎮 Sobre mim
 
-🔍 Curiosa por tecnologia e novidades  
-🧠 Sempre buscando evoluir  
-🌱 Cada dia aprendendo algo diferente...  
-🎮 Amo videogames!!
+🕹️ Viciada em videogames  
+💡 Curiosa por tecnologia e tudo que envolve criação  
+🧠 Sempre upando minhas skills  
+🌱 Evoluindo um pouquinho todos os dias  
+✨ Tentando zerar a vida no modo hard  
 
 ---
 
-## 🌷 Habilidades
+## 🧠 Skills
 
 <p>
    •  HTML <br>
    •  CSS <br>
    •  Responsividade <br>
-   •  Prototipação de interfaces <br>
-   •  Organização de projetos
+   •  UI/UX (Figma) <br>
+   •  Organização de projetos <br>
+   •  Aprendendo JavaScript 🚀
 </p>
 
 ---
 
-## 🛠️ Ferramentas que uso
+## 🛠️ Setup & Ferramentas
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,nodejs,react&theme=light" />
 </p>
 
 ---
 
-## 🌸 Estatísticas
+## 🎯 Atualmente
+
+🎮 Jogando: (coloca seu jogo favorito aqui 👀)  
+📚 Aprendendo: JavaScript & React  
+💭 Sonho: Trabalhar com tecnologia + algo criativo  
+
+---
+
+## 🌸 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariabragaf&show_icons=true&theme=rose_pine" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mariabragaf&show_icons=true&theme=rose_pine&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariabragaf&layout=compact&theme=rose_pine" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariabragaf&layout=compact&theme=rose_pine&hide_border=true" />
 </p>
 
 ---
@@ -65,12 +70,14 @@ Bem-vindo(a) ao meu cantinho do GitHub, onde compartilho meus projetos, e minha 
 ## ✨ Vibe
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eW9vdWpodXNyYWJjZXZ5YmdycW93bXFwcmljanQxaXQxdGM1Y3d4NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Im6d35ebkCIiGzonjI/giphy.gif" width="350"/>
-</p> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2I2dnlxcDUxYnJwNW5kOWlwdHg3c3E0YmxoMzZpZ2tnY3J5YnRieCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t98TERWTKYzGE/giphy.gif" width="350"/>
+</p>
 
 ---
 
 ## 💌 Contato
-📧 Email: manumaestro2009@gmail.com
+
+📧 Email: manumaestro2009@gmail.com  
+💬 Sempre aberta pra trocar ideia sobre tech ou games 🎮  
 
 ---
