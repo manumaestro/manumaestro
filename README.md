@@ -47,28 +47,23 @@ Aqui no meu GitHub você vai encontrar meus projetos, testes, ideias e um pouco 
 
 ---
 
-## 🎧 Musica favorita
+## 🎧 Música favorita
 
 <p align="center">
-  <a href="[https://open.spotify.com/track/16XNk3bVCSHXN1rlwbXtHb](https://open.spotify.com/intl-pt/track/1JSTJqkT5qHq8MDJnJbRE1?si=243c377650ac47c0)" target="_blank">
+  <a href="https://open.spotify.com/intl-pt/track/1JSTJqkT5qHq8MDJnJbRE1?si=478dfccfd4f0467e" target="_blank">
     <img src="https://img.shields.io/badge/🎧%20Ouvir%20no%20Spotify-FF69B4?style=for-the-badge&logo=spotify&logoColor=white&labelColor=FF1493" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/the-police/images/5/52/SYNCHRONICITY-CAPA-DO-%C3%81LBUM.jpg/revision/latest?cb=20230429143911" width="250"/>
 </p>
 
 ---
 
-<p align="center">
-  <a href="https://open.spotify.com/track/16XNk3bVCSHXN1rlwbXtHb" target="_blank">
-    <img src="https://img.shields.io/badge/🎧%20Ouvir%20no%20Spotify-FF69B4?style=for-the-badge&logo=spotify&logoColor=white&labelColor=FF1493" />
-  </a>
-<p align="center">
-  <img src="https://static.wikia.nocookie.net/the-police/images/5/52/SYNCHRONICITY-CAPA-DO-%C3%81LBUM.jpg/revision/latest?cb=20230429143911" width="250" style="border-radius: 20px; box-shadow: 0px 0px 15px #ff69b4;" />
-</p>
-</p>
-
 ## 🎯 Atualmente
 
-🎮 Jogando: Resident Evil Requiem
+🎮 Jogando: Resident Evil Requiem  
 📚 Aprendendo: JavaScript & React  
 💭 Sonho: Trabalhar com tecnologia + algo criativo  
 
