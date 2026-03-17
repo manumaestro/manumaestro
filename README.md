@@ -65,7 +65,7 @@ Bem-vindo(a) ao meu cantinho do GitHub, onde compartilho meus projetos, e minha 
 ## ✨ Vibe
 
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/yay-excited-gif-27353492" width="350"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eW9vdWpodXNyYWJjZXZ5YmdycW93bXFwcmljanQxaXQxdGM1Y3d4NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Im6d35ebkCIiGzonjI/giphy.gif" width="350"/>
 </p> 
 
 ---
